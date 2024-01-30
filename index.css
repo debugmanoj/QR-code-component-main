@@ -1,0 +1,39 @@
+.attribution {
+  margin-top: 50px;
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+body {
+  font-family: "Outfit", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: #d5e1ef;
+}
+.codeContainer {
+  margin-top: 4%;
+
+  width: 40vh;
+  height: auto;
+  /* height: 50vh; */
+  background-color: #ffffff;
+  border-radius: 20px;
+  padding: 20px;
+}
+img {
+  border-radius: 10px;
+  width: 100%;
+}
+.text {
+  text-align: center;
+
+  font-size: 22px;
+}
+.textSub {
+  text-align: center;
+  color: grey;
+}
